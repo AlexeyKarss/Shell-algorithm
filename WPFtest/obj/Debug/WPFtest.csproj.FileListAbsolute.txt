@@ -1,0 +1,14 @@
+c:\users\karss\documents\visual studio 2015\Projects\WPFtest\WPFtest\bin\Debug\WPFtest.exe.config
+c:\users\karss\documents\visual studio 2015\Projects\WPFtest\WPFtest\bin\Debug\WPFtest.exe
+c:\users\karss\documents\visual studio 2015\Projects\WPFtest\WPFtest\bin\Debug\WPFtest.pdb
+c:\users\karss\documents\visual studio 2015\Projects\WPFtest\WPFtest\obj\Debug\WPFtest.csprojResolveAssemblyReference.cache
+c:\users\karss\documents\visual studio 2015\Projects\WPFtest\WPFtest\obj\Debug\MainWindow.g.cs
+c:\users\karss\documents\visual studio 2015\Projects\WPFtest\WPFtest\obj\Debug\App.g.cs
+c:\users\karss\documents\visual studio 2015\Projects\WPFtest\WPFtest\obj\Debug\WPFtest_MarkupCompile.cache
+c:\users\karss\documents\visual studio 2015\Projects\WPFtest\WPFtest\obj\Debug\MainWindow.baml
+c:\users\karss\documents\visual studio 2015\Projects\WPFtest\WPFtest\obj\Debug\WPFtest.g.resources
+c:\users\karss\documents\visual studio 2015\Projects\WPFtest\WPFtest\obj\Debug\WPFtest.Properties.Resources.resources
+c:\users\karss\documents\visual studio 2015\Projects\WPFtest\WPFtest\obj\Debug\WPFtest.csproj.GenerateResource.Cache
+c:\users\karss\documents\visual studio 2015\Projects\WPFtest\WPFtest\obj\Debug\WPFtest.exe
+c:\users\karss\documents\visual studio 2015\Projects\WPFtest\WPFtest\obj\Debug\WPFtest.pdb
+C:\Users\Karss\documents\visual studio 2015\Projects\WPFtest\WPFtest\obj\Debug\WPFtest_MarkupCompile.lref
