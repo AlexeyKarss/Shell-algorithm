@@ -1,2 +1,3 @@
 # Shell-algorithm
-Визуализатор алгоритма построения минимальной выпуклой оболочки
+
+Visualization of the algorithm for constructing the minimum convex hull, with step-by-step explanations. In Russian.
